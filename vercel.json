@@ -1,19 +1,79 @@
 {
   "redirects": [
-    { "source": "/cf", "destination": "https://codeforces.com/profile/Code_with_Ismail", "permanent": true },
-    { "source": "/cc", "destination": "https://www.codechef.com/users/codewithismail", "permanent": true },
-    { "source": "/lc", "destination": "https://leetcode.com/u/CodeWithIsmail", "permanent": true },
-    { "source": "/cfexplorer-app", "destination": "https://github.com/CodeWithIsmail/CF-Explorer-App/", "permanent": true },
-    { "source": "/healthmate", "destination": "https://github.com/CodeWithIsmail/HealthMate/", "permanent": true },
-    { "source": "/banglalens", "destination": "https://github.com/CodeWithIsmail/BanglaLens", "permanent": true },
-    { "source": "/moneymate", "destination": "https://github.com/CodeWithIsmail/MoneyMate", "permanent": true },
-    { "source": "/dututors", "destination": "https://github.com/Learnathon-By-Geeky-Solutions/react-ive", "permanent": true },
-    { "source": "/bigganpathshala", "destination": "https://github.com/CodeWithIsmail/BigganPathshala", "permanent": true },
-    { "source": "/studymate", "destination": "https://github.com/CodeWithIsmail/StudyMate", "permanent": true },
-    { "source": "/typingmaster", "destination": "https://github.com/CodeWithIsmail/SPL-1", "permanent": true },
-    { "source": "/sls", "destination": "https://github.com/CodeWithIsmail/Smart-Library-System", "permanent": true },
-    { "source": "/learnathon", "destination": "https://learnathonproducts.geeky.solutions/products/df7c95d0-290c-40b4-a647-723003e88107/certificate", "permanent": true },
-    { "source": "/", "destination": "https://portfolio.devismail.me", "permanent": true },
-    { "source": "/:path*", "destination": "https://portfolio.devismail.me", "permanent": true }
+    {
+      "source": "/cf",
+      "destination": "https://codeforces.com/profile/Code_with_Ismail",
+      "permanent": true
+    },
+    {
+      "source": "/cc",
+      "destination": "https://www.codechef.com/users/codewithismail",
+      "permanent": true
+    },
+    {
+      "source": "/lc",
+      "destination": "https://leetcode.com/u/CodeWithIsmail",
+      "permanent": true
+    },
+    {
+      "source": "/cfexplorer-app",
+      "destination": "https://github.com/CodeWithIsmail/CF-Explorer-App/",
+      "permanent": true
+    },
+    {
+      "source": "/healthmate",
+      "destination": "https://github.com/CodeWithIsmail/HealthMate/",
+      "permanent": true
+    },
+    {
+      "source": "/banglalens",
+      "destination": "https://github.com/CodeWithIsmail/BanglaLens",
+      "permanent": true
+    },
+    {
+      "source": "/moneymate",
+      "destination": "https://github.com/CodeWithIsmail/MoneyMate",
+      "permanent": true
+    },
+    {
+      "source": "/dututors",
+      "destination": "https://github.com/Learnathon-By-Geeky-Solutions/react-ive",
+      "permanent": true
+    },
+    {
+      "source": "/bigganpathshala",
+      "destination": "https://github.com/CodeWithIsmail/BigganPathshala",
+      "permanent": true
+    },
+    {
+      "source": "/studymate",
+      "destination": "https://github.com/CodeWithIsmail/StudyMate",
+      "permanent": true
+    },
+    {
+      "source": "/typingmaster",
+      "destination": "https://github.com/CodeWithIsmail/SPL-1",
+      "permanent": true
+    },
+    {
+      "source": "/sls",
+      "destination": "https://github.com/CodeWithIsmail/Smart-Library-System",
+      "permanent": true
+    },
+    {
+      "source": "/learnathon",
+      "destination": "https://learnathonproducts.geeky.solutions/products/df7c95d0-290c-40b4-a647-723003e88107/certificate",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "destination": "https://portfolio.devismail.me",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "destination": "https://portfolio.devismail.me",
+      "permanent": true
+    }
   ]
 }
