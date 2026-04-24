@@ -13,6 +13,7 @@
     { "source": "/typingmaster", "destination": "https://github.com/CodeWithIsmail/SPL-1", "permanent": true },
     { "source": "/sls", "destination": "https://github.com/CodeWithIsmail/Smart-Library-System", "permanent": true },
     { "source": "/learnathon", "destination": "https://learnathonproducts.geeky.solutions/products/df7c95d0-290c-40b4-a647-723003e88107/certificate", "permanent": true },
-    { "source": "/", "destination": "https://portfolio.devismail.me", "permanent": true }
+    { "source": "/", "destination": "https://portfolio.devismail.me", "permanent": true },
+    { "source": "/:path*", "destination": "https://portfolio.devismail.me", "permanent": true }
   ]
 }
