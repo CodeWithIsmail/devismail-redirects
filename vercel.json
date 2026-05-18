@@ -65,6 +65,11 @@
       "destination": "https://learnathonproducts.geeky.solutions/products/df7c95d0-290c-40b4-a647-723003e88107/certificate",
       "permanent": true
     },
+     {
+      "source": "/spl",
+      "destination": "https://canva.link/asqagj83zbyf47b",
+      "permanent": true
+    },
     {
       "source": "/",
       "destination": "https://portfolio.devismail.me",
