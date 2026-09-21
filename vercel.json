@@ -65,6 +65,11 @@
       "destination": "https://learnathonproducts.geeky.solutions/products/df7c95d0-290c-40b4-a647-723003e88107/certificate",
       "permanent": true
     },
+    {
+      "source": "/autoresttest",
+      "destination": "https://github.com/CodeWithIsmail/AutoRestTest",
+      "permanent": true
+    },
      {
       "source": "/spl",
       "destination": "https://canva.link/asqagj83zbyf47b",
