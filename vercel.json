@@ -76,9 +76,14 @@
       "permanent": true
     },
     {
-      "source": "/",
-      "destination": "https://portfolio.devismail.me",
+       "source": "/demo",
+       "destination": "https://drive.google.com/drive/folders/1yGh0rbWYMMiCJYtSGsqS7emCxEGyyy8P?usp=sharing",
       "permanent": true
+     },
+     {
+       "source": "/",
+       "destination": "https://portfolio.devismail.me",
+       "permanent": true
     },
     {
       "source": "/:path*",
