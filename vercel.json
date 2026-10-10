@@ -81,6 +81,11 @@
       "permanent": true
      },
      {
+      "source": "/slide",
+      "destination": "https://docs.google.com/presentation/d/1MJ3G82eEeHcQ4SVUWxixXfu0N_KXjHTn/edit?usp=sharing&ouid=115068811724755054134&rtpof=true&sd=true",
+      "permanent": true
+     },
+     {
        "source": "/",
        "destination": "https://portfolio.devismail.me",
        "permanent": true
